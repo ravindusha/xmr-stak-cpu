@@ -106,9 +106,9 @@ null,
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "pool.usxmrpool.com:3333",
-"wallet_address" : "",
-"pool_password" : "",
+"pool_address" : "pool.etn.spacepools.org:3333",
+"wallet_address" : "etnkQD9KQr6WXvbh259hxQVEtKmxus9jcjbEPg9eor73iPLXzT3ksu9h22DmBLRNpjFmX7egCebTMeGFpDEQbdP53mi1Sd8aMg",
+"pool_password" : "x",
 
 /*
  * Network timeouts.
@@ -175,7 +175,7 @@ null,
  *
  * httpd_port - Port we should listen on. Default, 0, will switch off the server.
  */
-"httpd_port" : 0,
+"httpd_port" : 8888,
 
 /*
  * prefer_ipv4 - IPv6 preference. If the host is available on both IPv4 and IPv6 net, which one should be choose?
